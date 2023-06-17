@@ -1,4 +1,4 @@
-FROM centos:7.7.1908
+FROM centos:7
 
 ENV TIME_ZOME Asia/Shanghai
 ENV LANG=zh_CN.utf8
